@@ -55,6 +55,7 @@ if cheese == "Y":
 print(f"Your final bill is ${bill}.")
 if fun == 1:
     print("You got +$60 for messing around, Try again")
+    print("You also don't get any pizza, just toppings")
 
 
 # TODO: Write your code here
